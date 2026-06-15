@@ -1,13 +1,4 @@
 # Airline Delay Analysis
-
-## Dataset
-
-The original dataset was omitted due to GitHub file size limits.
-
-The dataset can be downloaded from Kaggle.
-
-After downloading, place the CSV file inside the `data/` folder before running the notebook.
-
 ## Tools Used
 
 * Python
